@@ -3,6 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 HelloWorld Git.
-OK push github already!
-Creating a new branch is quick.
+OK push github alread!
 Creating a new branch is quick AND simple.
