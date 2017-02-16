@@ -4,5 +4,3 @@ Git has a mutable index called stage.
 Git tracks changes.
 HelloWorld Git.
 OK push github already!
-OK push github already!
-OK push github already!
